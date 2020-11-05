@@ -1,1 +1,1 @@
-https://github.com/pluto7073/plutoprogs/blob/main/Notetaker/NotetakerSetup.exe
+https://github.com/pluto7073/plutoprogs/raw/main/Notetaker/NotetakerSetup.exe
