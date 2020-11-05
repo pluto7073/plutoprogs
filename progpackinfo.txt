@@ -1,1 +1,1 @@
-https://github.com/pluto7073/plutoprogs/blob/main/Notetaker/info.txt
+https://github.com/pluto7073/plutoprogs/raw/main/Notetaker/info.txt
