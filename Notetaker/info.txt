@@ -1,1 +1,21 @@
-https://github.com/pluto7073/plutoprogs/raw/main/Notetaker/NotetakerSetup.exe
+Notetaker:
+
+Notetaker is a program that allows you to keep Multiple Notebooks
+with multiple pages all in one simple, easy to use program.
+
+Changelog:
+
+Version Alpha-1.1:
+
+ - Added the ability to take screenshots of a page in 
+   A notebook
+   
+Version Alpha-1.0:
+
+ - First Version of Notetaker
+ - Added Notebooks
+ - Added Pages
+ - Added Menu
+ - Added New Project
+ - Added Open Project
+ - Basically Added Almost Everything that Already Exists
