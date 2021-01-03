@@ -1,0 +1,23 @@
+PixelPong is like Playing Ping-Pong with yourself. Or a wall in
+this case. You can try to beat your high score or just see how 
+long you can hold out.
+
+== Changelog ==
+
+Version Alpha-1.2:
+- Added Support for the new Pluto Programs Launcher, but
+  the game can still be downloaded by itself
+
+Version Alpha-1.1:  
+- Added Custom Resources
+- Added Custom Button Textures
+- Added Custom Colors
+- Added Options Menu
+- Added Ball Trail
+- Added a Changelog Menu
+- Increased Ball Speed by a Small Amount
+- Fixed Stuck Controls Bug When Opening Pause Menu
+- Highscore is now saved and no longer per-game
+
+Version Alpha-1.0:
+- Created PixelPong
