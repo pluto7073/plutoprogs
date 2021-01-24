@@ -1,7 +1,7 @@
 Notetaker is a program that allows you to keep Multiple Notebooks
 with multiple pages all in one simple, easy to use program.
 
-=== Changelog ===
+== Changelog ==
 
 Version Alpha-1.1:
 
