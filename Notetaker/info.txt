@@ -3,6 +3,11 @@ with multiple pages all in one simple, easy to use program.
 
 == Changelog ==
 
+Version Alpha-1.2:
+
+ - Added Support for the new Pluto Programs Launcher,
+   Notetaker is still downloadable on its own still
+
 Version Alpha-1.1:
 
  - Added the ability to take screenshots of a page in 
