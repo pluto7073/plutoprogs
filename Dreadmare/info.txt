@@ -1,0 +1,11 @@
+Dreadmare is a new game that I have been working on. It uses
+LWJGL 2.9.3 and OpenGL 3.2. This is a 3D exploration game
+similar to minecraft, but without blocks. As of right now it
+is in the Testing Phase still (dm-20210204) so The only features
+are as follows:
+
+- A Spinning Gray Dragon
+- A Flat grassy Ground
+- 1000 randomly placed Trees
+- The Ability to Move along the X, Y, and Z axis using WASD, SPACE, and LSHIFT
+- You can not currently look around
