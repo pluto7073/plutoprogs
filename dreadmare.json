@@ -3,7 +3,7 @@
     "version": "dm-20210204",
     "size": 5862493,
     "version-code": 1,
-    "program_arguments": "-Djava.library.path=libs\\",
+    "program_arguments": "-Djava.library.path=${DIR}\\libs\\",
     "program_addons": [
       "--runDir='${DIR}'"
     ]
