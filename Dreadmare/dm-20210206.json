@@ -1,0 +1,61 @@
+{
+  "program_info": {
+    "version": "dm-20210206",
+    "size": 5862493,
+    "version-code": 1,
+    "program_arguments": "-Djava.library.path=libs\\",
+    "program-addons": [
+      "--runDir='${DIR}'"
+    ]
+  },
+  "downloads": [
+    {
+      "name": "OpenAL32.dll",
+      "url": "https://firebasestorage.googleapis.com/v0/b/dreadmareaccounts.appspot.com/o/dm-20210204%2FOpenAL32.dll?alt=media&token=a2174fcf-e0b1-4253-a3ec-8c8ba56b0a34",
+      "path": "libs\\",
+      "size": 390144
+    },
+    {
+      "name": "OpenAL64.dll",
+      "url": "https://firebasestorage.googleapis.com/v0/b/dreadmareaccounts.appspot.com/o/dm-20210204%2FOpenAL64.dll?alt=media&token=9ef9c10d-6562-44e7-8846-ca2ca0cbbe8e",
+      "path": "libs\\",
+      "size": 382464
+    },
+    {
+      "name": "jinput-dx8.dll",
+      "url": "https://firebasestorage.googleapis.com/v0/b/dreadmareaccounts.appspot.com/o/dm-20210204%2Fjinput-dx8.dll?alt=media&token=71549021-d2a7-4e70-937d-b5b96ca7f465",
+      "path": "libs\\",
+      "size": 61952
+    },
+    {
+      "name": "jinput-dx8_64.dll",
+      "url": "https://firebasestorage.googleapis.com/v0/b/dreadmareaccounts.appspot.com/o/dm-20210204%2Fjinput-dx8_64.dll?alt=media&token=edb2b638-9d95-4ace-a675-ccfc145ff4ee",
+      "path": "libs\\",
+      "size": 65024
+    },
+    {
+      "name": "jinput-raw.dll",
+      "url": "https://firebasestorage.googleapis.com/v0/b/dreadmareaccounts.appspot.com/o/dm-20210204%2Fjinput-raw.dll?alt=media&token=fc409596-4d23-47f1-896f-54ce7f26596b",
+      "path": "libs\\",
+      "size": 59392
+    },
+    {
+      "name": "jinput-raw_64.dll",
+      "url": "https://firebasestorage.googleapis.com/v0/b/dreadmareaccounts.appspot.com/o/dm-20210204%2Fjinput-raw_64.dll?alt=media&token=8ba2a309-c1b5-46eb-9fc5-cbf970bf42a2",
+      "path": "libs\\",
+      "size": 62464
+    },
+    {
+      "name": "lwjgl.dll",
+      "url": "https://firebasestorage.googleapis.com/v0/b/dreadmareaccounts.appspot.com/o/dm-20210204%2Flwjgl.dll?alt=media&token=21c9f13b-1aa7-4196-a00e-c3dd40233b09",
+      "path": "libs\\",
+      "size": 306176
+    },
+    {
+      "name": "lwjgl64.dll",
+      "url": "https://firebasestorage.googleapis.com/v0/b/dreadmareaccounts.appspot.com/o/dm-20210204%2Flwjgl64.dll?alt=media&token=3206f674-be28-4cd3-ab42-2dac281ca44e",
+      "path": "libs\\",
+      "size": 317440
+    }
+  ]
+}
