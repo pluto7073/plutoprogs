@@ -4,7 +4,7 @@
     "size": 11451261,
     "version-code": 1,
     "program_arguments": "-Djava.library.path=libs\\",
-    "program-addons": [
+    "program_addons": [
       "--runDir='${DIR}'"
     ]
   },
