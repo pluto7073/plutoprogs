@@ -3,8 +3,8 @@
     "version": "dm-20210206",
     "size": 11451261,
     "version-code": 1,
-    "program_arguments": "-Djava.library.path=libs\\",
-    "program-addons": [
+    "program_arguments": "-Djava.library.path=Dreadmare\\libs\\",
+    "program_addons": [
       "--runDir='${DIR}'"
     ]
   },
