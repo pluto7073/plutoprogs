@@ -1,10 +1,10 @@
 {
   "program_info": {
-    "version": "dm-20210204",
+    "version": "dm-20210206",
     "size": 5862493,
     "version-code": 1,
-    "program_arguments": "-Djava.library.path=${DIR}\\libs\\",
-    "program_addons": [
+    "program_arguments": "-Djava.library.path=libs\\",
+    "program-addons": [
       "--runDir='${DIR}'"
     ]
   },
