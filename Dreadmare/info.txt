@@ -29,6 +29,13 @@ Removed:
 - The spinning Gray dragon
 - The ability to fly under the map
 
+Controls:
+- Mouse to Look Around
+- W and S keys to Move
+- A and D keys to move sideways (sometimes)
+- SPACE to jump
+- ESC to quit
+
 === Version dm-20210204 ===
 
 Features:
