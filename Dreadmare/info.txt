@@ -1,8 +1,37 @@
 Dreadmare is a new game that I have been working on. It uses
 LWJGL 2.9.3 and OpenGL 3.2. This is a 3D exploration game
 similar to minecraft, but without blocks. As of right now it
-is in the Testing Phase still (dm-20210204) so The only features
-are as follows:
+is in the Testing Phase still (dm-20210206).
+
+ChangeLog:
+
+=== Version dm-20210206 ===
+
+Additions:
+- Skybox. Now shows clouds
+- Hilly Terrain
+- Paths
+- Ferns
+- Tall Grass
+- Gravity
+- Fog in the distance
+
+Changes:
+- Movement: 
+-- Look around using the mouse
+-- W and S move forwards and backwards
+-- A and D move sideways (Doesn't always work correctly)
+-- SPACE to jump
+- Tree Texture & Model
+- New Loading Screen
+
+Removed:
+- The spinning Gray dragon
+- The ability to fly under the map
+
+=== Version dm-20210204 ===
+
+Features:
 
 - A Spinning Gray Dragon
 - A Flat grassy Ground
