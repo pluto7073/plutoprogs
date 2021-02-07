@@ -1,7 +1,7 @@
 {
   "program_info": {
     "version": "dm-20210206",
-    "size": 5862493,
+    "size": 11451261,
     "version-code": 1,
     "program_arguments": "-Djava.library.path=libs\\",
     "program-addons": [
