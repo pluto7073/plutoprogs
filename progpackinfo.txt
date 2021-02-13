@@ -1,3 +1,4 @@
 https://github.com/pluto7073/plutoprogs/raw/main/Notetaker/info.txt
 https://github.com/pluto7073/plutoprogs/raw/main/TextEditor/info.txt
-
+https://github.com/pluto7073/plutoprogs/raw/main/PixelPong/info.txt
+https://github.com/pluto7073/plutoprogs/raw/main/Dreadmare/info.txt
